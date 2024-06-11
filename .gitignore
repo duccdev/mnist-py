@@ -1,0 +1,6 @@
+__pycache__
+sample.png
+models/*
+!models/mnist.json
+datasets/*
+!datasets/mnist.npz
