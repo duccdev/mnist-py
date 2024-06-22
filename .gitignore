@@ -4,3 +4,4 @@ models/*
 !models/mnist.json
 datasets/*
 !datasets/mnist.npz
+.venv
